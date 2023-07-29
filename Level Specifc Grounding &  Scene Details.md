@@ -1,4 +1,4 @@
-# Level Specific Scene Details & Grounding for embedding extraction, storage, and retrieval from a vector DB
+# Level Specific Scene Details & Grounding for embedding extraction, storage, and retrieval from a vector DB; else fixed within the context windows as a level specific character which is incremented as each level is completed
 
 Level 1 - The Two Guards
 The player finds themselves in a long, narrow corridor, the walls made of ancient stone that's cold to the touch. The air is damp and heavy, carrying the faint scent of moss and time. Two guards stand rigidly in front of two ornate doors, their armor glinting under the flickering torchlight. One guard is clad in crimson armor, the color of blood under a setting sun, while the other is adorned in cobalt blue, reminiscent of a clear midday sky. Their faces are obscured by the shadows of their helmets, adding to the air of mystery. The only sound is the echo of dripping water, punctuating the silence like a metronome.
